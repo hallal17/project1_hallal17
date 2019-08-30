@@ -1,0 +1,3 @@
+/Users/andrewhall/CLionProjects/project1-hallal17/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andrewhall/CLionProjects/project1-hallal17/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrewhall/CLionProjects/project1-hallal17/cmake-build-debug/CMakeFiles/project1_hallal17.dir
